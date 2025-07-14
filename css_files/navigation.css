@@ -1,0 +1,41 @@
+nav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 64px;
+    margin-bottom: 48px;
+    color: white;
+    /* position: fixed; */
+   
+
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    gap: 76px;
+   
+
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    transition: 0.15s text-decoration;
+   
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.logo {
+    font-weight: 500;
+    background: linear-gradient(318deg, #b44cff 0%, #560d95 100%);
+    padding: 22px 16px;
+    border-radius: 31px;
+    
+    
+}
