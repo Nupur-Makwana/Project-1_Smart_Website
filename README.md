@@ -28,6 +28,8 @@ Technologies Used
 How To View
 
 Open the link the view the website :
+https://nupur-makwana.github.io/Project-1_Smart_Website/
+
 
 
 Thank You
